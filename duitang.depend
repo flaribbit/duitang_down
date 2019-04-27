@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555122337 source:d:\users\flyz\desktop\duitang\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wininet.h>
+	<vector>
+
+1555122481 source:d:\project\c_programs\duitang\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wininet.h>
+	<vector>
+
